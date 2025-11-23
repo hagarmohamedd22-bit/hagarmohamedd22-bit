@@ -16,7 +16,7 @@ h1,h2,h3,.navbar-brand{
     font-family: "Dancing Script", cursive;
 }
 .main-section{
-background-image: url(../images/hero-bg\ \(1\).jpg);  
+background-image: url(/hagarmohamedd22-bit/images/hero-bg\ \(1\).jpg);  
   background-position: center;
     background-size: cover;
 }
@@ -220,4 +220,5 @@ color: #f1f2f3;
  }
  .footer-logo{
     margin-left: 150px;
+
  }
